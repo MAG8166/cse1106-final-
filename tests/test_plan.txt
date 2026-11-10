@@ -1,1 +1,7 @@
-
+Temperature System Status Warning LED
+Temp      Status    LED    Expected Result    Result 
+72°F      Normal    OFF    No warnings        No Warning
+79°F      Warning   On     Warning            Warning 
+65°F      Warning   On     Warning            Warning
+68°F      Normal    OFF    No warnings        No Warning
+76°F      Normal    OFF    No warnings        No Warning
